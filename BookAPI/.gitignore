@@ -1,0 +1,42 @@
+
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Database file 
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Config IDEs (VSCode, PyCharm, ...)
+.vscode/
+.idea/
+
+# File 
+*.env
+
+# Static và media files
+staticfiles/
+media/
+
+# System file
+*.DS_Store
+*.log
+*.pot
+*.mo
+
+# Django
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Migrations
+*/migrations/*
+
+# Files pip
+pip-log.txt
+pip-delete-this-directory.txt
