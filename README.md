@@ -1,19 +1,19 @@
-﻿# BookAPI Project
+﻿# BookAPI Project </br>
 
-This is a simple API built with Django to manage books. It includes basic CRUD operations for managing books in a database.
+This is a simple API built with Django to manage books. It includes basic CRUD operations for managing books in a database. </br>
 
-1. Clone the repository:
+1. Clone the repository: </br>
 git clone https://github.com/PhatBen234/BookAPI.git </br>
-cd BookApi
+cd BookApi </br>
 
-2. Install dependencies:
+2. Install dependencies: </br>
 
-pip install -r requirements.txt
+pip install -r requirements.txt </br>
 
-3. Run migrations to set up the database: (Because Django has connect with SQL lite, just with this command you can automatically create SQL DB by model file)
-python manage.py migrate
+3. Run migrations to set up the database: (Because Django has connect with SQL lite, just with this command you can automatically create SQL DB by model file) </br>
+python manage.py migrate </br>
 
-4. Run the development server:
-python manage.py runserver
+4. Run the development server: </br>
+python manage.py runserver </br>
 
 
