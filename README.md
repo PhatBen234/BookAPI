@@ -11,7 +11,7 @@ This is a simple API built with Django to manage books. It includes basic CRUD o
 - pip install -r requirements.txt </br>
 
 3. Run migrations to set up the database: (Because Django has connect with SQL lite, just with this command you can automatically create SQL DB by model file) </br>
-- python manage.py makemigrations </br>
+- python manage.py makemigrations books </br>
 - python manage.py migrate 
 
 4. Run the development server: </br>
