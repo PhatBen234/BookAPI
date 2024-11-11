@@ -7,7 +7,6 @@ git clone https://github.com/PhatBen234/BookAPI.git </br>
 cd BookApi </br>
 
 2. Install dependencies: </br>
-
 pip install -r requirements.txt </br>
 
 3. Run migrations to set up the database: (Because Django has connect with SQL lite, just with this command you can automatically create SQL DB by model file) </br>
