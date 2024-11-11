@@ -4,7 +4,7 @@ This is a simple API built with Django to manage books. It includes basic CRUD o
 
 1. Clone the repository: </br>
 - git clone https://github.com/PhatBen234/BookAPI.git </br>
-- cd BookApi </br>
+- cd BookAPI </br>
 
 2. Install dependencies: </br>
 - pip install -r requirements.txt </br>
